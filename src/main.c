@@ -1,5 +1,5 @@
-#include <stdlib.h>
 #include "csh.h"
+#include <stdlib.h>
 
 int main(int argc, char **argv) {
 	// Load config files, if any
